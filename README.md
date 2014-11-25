@@ -13,11 +13,11 @@ You will have to change your settings in the app.js
 <img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/mySQL.png" >
 
 You project should look like this : 
-<img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/mySQL.png" >
+<img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/projExpl.png" >
 
 
 
-This is what my site looks like after finishing : 
+This is what my site looks like after I finishing : 
 
 <img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/Main.png" >
 
@@ -26,4 +26,6 @@ This is what my site looks like after finishing :
 This is the view I added with the Grid : 
 
 <img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/Accounts.png" >
+
+
 
