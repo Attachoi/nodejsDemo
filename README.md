@@ -11,21 +11,23 @@ this tutorial guied me into making a basic informative website with node.js usin
 ****The only pre-requisite that's not included in those two tutorial is that you will need a mysql DB to run this example. 
 
 You will have to change your settings in the app.js 
+<br/>
 <img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/mySQL.png" >
-
+<br/>
 You project should look like this : 
+<br/>
 <img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/projExpl.png" >
 
 
-
-This is what my site looks like after I finishing : 
-
+<br/>
+This is what my site looks like after I finished : 
+<br/>
 <img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/Main.png" >
 
 <br/>
 
 This is the view I added with the Grid : 
-
+<br/>
 <img src="https://github.com/Attachoi/nodejsDemo/blob/master/adminApp/Accounts.png" >
 
 
